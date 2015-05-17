@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Single Page Javascript Shortcodes
-Version: 1.1
+Version: 1.2
 Plugin URI: /
 Author: Markaay
 Author URI: /
